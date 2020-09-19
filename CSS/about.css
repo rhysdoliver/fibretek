@@ -1,0 +1,25 @@
+
+.jumbotron {
+    background-image: url("../IMG/field1.jpg");
+    background-size: cover;}
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+.about-divider {
+  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+  border-top: 2px solid rgb(58, 140, 21);
+}
+
+/* Center align the text within the three columns below the carousel */
+.theTeam .col-lg-6 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+.theTeam h2 {
+    font-weight: 400;
+  }
+.theTeam .col-lg-6 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+  }

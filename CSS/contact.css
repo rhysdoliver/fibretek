@@ -1,0 +1,9 @@
+.jumbotron {
+    background-image: url("../IMG/field1.jpg");
+    background-size: cover;
+    /*margin-bottom: 0;*/
+}
+
+.mapView {
+    padding:50px 0px;
+}

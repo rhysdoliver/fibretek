@@ -1,0 +1,18 @@
+.jumbotron {
+    background-image: url("../IMG/field1.jpg");
+    background-size: cover;}
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+  border-top: 2px solid rgb(58, 140, 21);
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}

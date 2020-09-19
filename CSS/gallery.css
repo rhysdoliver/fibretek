@@ -1,0 +1,7 @@
+.jumbotron {
+    background-image: url("../IMG/field1.jpg");
+    background-size: cover;}
+
+    .gallery .col-lg-6 {
+        padding: 0;
+    }
