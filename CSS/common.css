@@ -1,0 +1,18 @@
+/* Shared styles for all pages */
+
+/* Navbar styling */
+.navbar {
+  background-color: #ffffff !important;
+}
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #334155 !important;
+}
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+  color: #1e293b !important;
+}
+.navbar .nav-link.active {
+  color: #334155 !important;
+  font-weight: 500;
+}
